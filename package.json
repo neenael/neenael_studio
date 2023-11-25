@@ -9,6 +9,8 @@
   "author": "Mardvey",
   "license": "ISC",
   "devDependencies": {
+    "@popperjs/core": "^2.11.8",
+    "accordion-js": "^3.3.4",
     "browser-sync": "^2.27.7",
     "del": "^6.0.0",
     "gulp": "^4.0.2",
@@ -17,6 +19,9 @@
     "gulp-imagemin": "^7.1.0",
     "gulp-sass": "^5.0.0",
     "jquery": "^3.6.0",
-    "sass": "^1.44.0"
+    "sass": "^1.44.0",
+    "swiper": "^11.0.4",
+    "tippy.js": "^6.3.7",
+    "wowjs": "^1.1.3"
   }
 }
